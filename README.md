@@ -15,4 +15,7 @@ This project is lightweight, beginner-friendly, and requires no external framewo
 
 🚀 Start coding now and build your own QR Code Generator! 💻
 
+YOUTUBE
+https://www.youtube.com/watch?v=NT4BvfQ9XX8
+
 #QRCodeGenerator #JavaScriptProject #HTMLCSSJS #NoTalking #WebDevelopment #CodingForBeginners
